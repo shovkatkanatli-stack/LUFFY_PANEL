@@ -1,0 +1,15 @@
+title: Luffy Panel
+description: A lightweight VLESS-over-WebSocket proxy panel built with FastAPI
+sdk: docker
+app_port: 7860
+models:
+  - type: model
+    id: default
+    name: Luffy Panel
+version: "1.0"
+keywords:
+  - proxy
+  - vless
+  - websocket
+  - panel
+  - fastapi
